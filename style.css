@@ -1,0 +1,24 @@
+.wrapper {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: rgb(82, 132, 138);
+    background-image: url(https://cdnn21.img.ria.ru/images/155926/77/1559267710_0:158:3077:1889_1920x0_80_0_0_9d7155c1df3c45669a7a743635b0469d.jpg);
+    background-size: cover;
+}
+
+
+input {
+    margin-bottom: 5px;
+    border: none;
+    width: 200px;
+    height: 25px;
+    border-radius: 3px;
+}
+
+h2 {
+    color: white;
+}
